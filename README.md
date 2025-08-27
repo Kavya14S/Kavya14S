@@ -20,19 +20,19 @@
     <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/> 
     <img height="40" width="40" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 
-    </p>
+   </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: Final-year B.Tech IT student, Sri Sairam Engineering College.
 - :hourglass_flowing_sand: EPICS IN IEEE and Tech for Good fund recipient.
-- :rocket: Winner of SDG Innovathon 3.0 & National Code Wars.
+- :rocket: Winner of SDG Innovathon 3.0 & Code Wars.
 - :man_technologist: Published papers on AI, Cybersecurity & Workflow Systems
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Skills: C, C++, Python, React, Tailwind, SQL.
+- :trophy: Skills: C, C++, Python, React, Tailwind CSS, SQL.
 - :zap: Passionate about tech, innovation & real-world impact.<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/kavyas14/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://kavya14s.github.io/My-Portfolio/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kavya%20S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kavyas14/)](https://www.linkedin.com/in/kavyas14/) 
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://kavya14s.github.io/My-Portfolio/)](https://kavya14s.github.io/My-Portfolio/)
